@@ -1,3 +1,8 @@
+// Name: Abiodun Oluwapelumi Amos
+// Matric: 230865
+// github link: https://github.com/A-Tech-Services/Self-zdescribing-Number-Csahrp.git
+
+
 using System;
 
 namespace SelfDescribingNumber
@@ -61,7 +66,7 @@ namespace SelfDescribingNumber
 
 
 
-    
+
     class Program
     {
         static void Main(string[] args){
