@@ -1,0 +1,15 @@
+/home/amospelumi/Desktop/SelfDescribingNumber/bin/Debug/net7.0/SelfDescribingNumber
+/home/amospelumi/Desktop/SelfDescribingNumber/bin/Debug/net7.0/SelfDescribingNumber.deps.json
+/home/amospelumi/Desktop/SelfDescribingNumber/bin/Debug/net7.0/SelfDescribingNumber.runtimeconfig.json
+/home/amospelumi/Desktop/SelfDescribingNumber/bin/Debug/net7.0/SelfDescribingNumber.dll
+/home/amospelumi/Desktop/SelfDescribingNumber/bin/Debug/net7.0/SelfDescribingNumber.pdb
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/SelfDescribingNumber.csproj.AssemblyReference.cache
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/SelfDescribingNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/SelfDescribingNumber.AssemblyInfoInputs.cache
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/SelfDescribingNumber.AssemblyInfo.cs
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/SelfDescribingNumber.csproj.CoreCompileInputs.cache
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/SelfDescribingNumber.dll
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/refint/SelfDescribingNumber.dll
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/SelfDescribingNumber.pdb
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/SelfDescribingNumber.genruntimeconfig.cache
+/home/amospelumi/Desktop/SelfDescribingNumber/obj/Debug/net7.0/ref/SelfDescribingNumber.dll
