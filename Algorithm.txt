@@ -1,0 +1,57 @@
+using System;
+
+namespace SelfDescribingNumber
+{
+    class SelfDescribing
+    {
+        create member variable 
+        string[] files = new string[size];
+
+
+        public void CheckFile()
+        {
+            file = ReadAllLines of the external file;
+
+            if(length of file == 0){
+                print "error in opening file";
+            }
+        }
+
+        public void ReadFromFile(){
+            CheckFile();
+
+            testCase = first index of the files(convert to a int);
+
+            for(int i=1; i<testCase; i++){
+                string input = remaining text from file;
+
+                bool isSelfDescribing = true;
+
+                int lenInput = lenght of the input;
+
+                for(j=0; j<lenInput; j++){
+                    int countInput = count OCCURRENCE of each value in input;
+                    input inputSeparation = pick the input value one by one;
+
+                    if(countInput != inputSeparation){
+                        isSelfDescribing = false;
+                        break out loop;
+                    }
+
+                    if(isSelfDescribing){
+                        print "This is a self describing"
+                    }else{
+                        print otherwise
+                    }
+                }
+            } 
+        }
+    }
+
+    class program{
+        static void Main(string[] args){
+            SelfDescribing s = new SelfDescribing();
+            s.ReadFromFile();
+        }
+    }
+}
